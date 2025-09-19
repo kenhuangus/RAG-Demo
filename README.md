@@ -60,7 +60,7 @@ ollama pull phi:latest
 2. **Navigate to the project directory**
 
 ```bash
-cd c:\ken\usf\rag
+cd RAG-Demo
 ```
 
 3. **Install Python dependencies**
